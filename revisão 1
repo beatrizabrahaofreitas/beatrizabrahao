@@ -1,3 +1,35 @@
 4) o computador não cria nada, ele só repete o que mandam ele fazer por exemplo a IA  usa coisas ja existentes para produzir algo que a foi pedido 
 
-5) pois são casos de uma complexidade muito grande para tomar decisões, precisa ter um humano para dar o diagnostico da doença e etc, em empréstimo no Brasil se um banco recusa um empréstimo o banco precisa explicar o porque não aceitou 
+5) pois são casos de uma complexidade muito grande para tomar decisões, precisa ter um humano para dar o diagnostico da doença e etc, em empréstimo no Brasil se um banco recusa um empréstimo o banco precisa explicar o porque não aceitou a rede neural é construida pelos ser humanos e é muito complexa ha muitas contas matematicas por tras por iso nao tem como haver uma explicação 
+
+6) arquivo binário de um de texto, arquivo de texto é um arquivo especial os 0 e 1 representam caracteres no binario sao outras coisas 
+
+10) Sobre a LGPD:
+a) Sua abrangência inclui datacenters em países estrangeiros? Explique.
+b) Na sua opinião, os servidores de aplicação agem de maneira adequada atualmente:
+1) no tocante ao conteúdo em desacordo com suas regras de comunidade? Explique.
+
+2) em relação ao conteúdo que destrói reputações, sabidamente falso? Explique.
+
+11) No contexto da linguagem de programação Python:
+a) Quais as estruturas de repetição utilizadas?
+b) Como são definidos os blocos de comando?
+c) Quais as duas principais operações realizadas pelo operador +? Explique brevemente
+cada uma delas.
+
+d) O que é uma função?
+é um bloco código que pode ser reutilizado pode ser identificado como componente de programa, def nome identificador da função (lista de parametros): e depois tem o bloco de comandos 
+
+e) Como definimos uma função?
+def nome identificador da função (lista de parametros): e depois tem o bloco de comandos 
+
+dados pulicos-- dados oriundos de um atividade estatal ou  de empresa de interesse publico sem restrição de privacidade
+
+f) Quais as estruturas de tomada de decisão da linguagem? Construa um exemplo de cada
+uma delas
+if/ if- else/ if- elif- else
+ex: if idade > 18
+      print (maior de idade)
+if cor == 'azul'
+   print ('acertou')
+
